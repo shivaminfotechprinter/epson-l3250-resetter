@@ -1,1 +1,2 @@
-# epson-l3250-resetter
+# Epson L3250 Printer Resetter
+How To Reset Epson L3250 Printer
